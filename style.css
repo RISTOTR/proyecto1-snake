@@ -1,0 +1,41 @@
+body {
+    padding: 0;
+    text-align: center;
+    background-color: rgb(137, 177, 73)
+}
+
+.game-intro {
+    float:left;
+    padding: 0% 10%
+}
+
+h1{
+    font-family: 'Luckiest Guy', cursive;
+    color: rgb(2, 83, 2);
+    text-shadow: 10x 10px rgb(243, 243, 34);
+    font-size: 52px;
+    
+}
+
+body button {
+    font-size: 30px;
+    background-color: #870007;
+    color: #fff;
+    padding: 20px 40px;
+    border: 0;
+    box-shadow: 0;
+    border-radius: 5px;
+    margin-bottom: 20px;
+  }
+
+
+#game-board {
+    float:left;
+    border: 1px solid rgb(21, 110, 21);
+   /* background-image: url("img/grassbackground.jpg");
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;*/
+}
+
+
